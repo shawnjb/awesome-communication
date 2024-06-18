@@ -2,6 +2,8 @@
 
 A list of various communication platforms and software.
 
+- [BetterDiscord](https://betterdiscord.app/) - Enhances Discord by providing a plugin-loaded platform for custom themes, additional features, and Twitch emote integration.
+- [Caprine](https://sindresorhus.com/caprine/) - Elegant, privacy-focused desktop app for Facebook Messenger, featuring dark mode, keyboard shortcuts, and cross-platform compatibility.
 - [Discord](https://discord.com/) - Platform for gaming, socializing, and community-building.
 - [Element](https://element.io/) - Secure communications platform built on the Matrix protocol.
 - [Franz](https://meetfranz.com/) - Free messaging app consolidating services like WhatsApp, Slack, and Telegram into one platform.
@@ -15,9 +17,9 @@ A list of various communication platforms and software.
 - [Revolt](https://revolt.chat/) - Open-source, user-focused chat platform supporting a variety of features and community contributions.
 - [Rocket.Chat](https://www.rocket.chat/) - Customizable collaboration platform for team communication.
 - [Signal](https://signal.org/) - Free messaging app focused on privacy with end-to-end encryption.
+- [Tailchat](https://tailchat.msgbyte.com/) - Open platform next-generation noIM application designed for workspace communication, featuring AI assistance, a robust plugin system, and comprehensive role-based access control.
 - [Tox](https://tox.chat/) - Peer-to-peer encrypted messaging platform with no central servers.
 - [UnInbox](https://uninbox.com/) - Modern, open-source email platform integrating email and messaging functionalities for teams and professionals.
+- [Vencord](https://vencord.dev/) - Feature-rich, lightweight Discord client mod with over 100 built-in plugins, customizable themes, and privacy-focused features.
 - [Wire](https://wire.com/) - Messaging platform with end-to-end encryption for chats and conferences.
 - [Zulip](https://zulip.com/) - Organized team chat with topic-based threading.
-- [Caprine](https://sindresorhus.com/caprine/) - Elegant, privacy-focused desktop app for Facebook Messenger, featuring dark mode, keyboard shortcuts, and cross-platform compatibility.
-- [Tailchat](https://tailchat.msgbyte.com/) - Open platform next-generation noIM application designed for workspace communication, featuring AI assistance, a robust plugin system, and comprehensive role-based access control.
