@@ -19,3 +19,5 @@ A list of various communication platforms and software.
 - [UnInbox](https://uninbox.com/) - Modern, open-source email platform integrating email and messaging functionalities for teams and professionals.
 - [Wire](https://wire.com/) - Messaging platform with end-to-end encryption for chats and conferences.
 - [Zulip](https://zulip.com/) - Organized team chat with topic-based threading.
+- [Caprine](https://sindresorhus.com/caprine/) - Elegant, privacy-focused desktop app for Facebook Messenger, featuring dark mode, keyboard shortcuts, and cross-platform compatibility.
+- [Tailchat](https://tailchat.msgbyte.com/) - Open platform next-generation noIM application designed for workspace communication, featuring AI assistance, a robust plugin system, and comprehensive role-based access control.
